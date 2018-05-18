@@ -1,6 +1,8 @@
 # これなに
 学習目的でOpenstackをデプロイするためのツールであるDevStackを触ってみる。ついでにdockerでネットワークを定義したことがあまりなかったのでこの辺も学習したいなあという気持ち。さらについでに、kubanetes触ってみたいマンなので寄り道しつつやろうかなみたいな。
 
+hogehoge
+
 ## 参考
 
  - [OpenStack Docs: DevStack](https://docs.openstack.org/devstack/latest/#quick-start)

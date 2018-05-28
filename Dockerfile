@@ -14,3 +14,4 @@ RUN chown -R stack:stack /opt/stack/devstack
 RUN /opt/stack/devstack/stack.sh 
 COPY local.conf /opt/stack/devstack/local.conf
 
+RUN yum install -y sysstat
